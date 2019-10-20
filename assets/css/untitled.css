@@ -2,3 +2,16 @@
   background-color: rgb(242,60,60);
 }
 
+.ekuqe{
+	color: red;
+}
+
+#about{
+	background-image: url('../img/2000px.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.no-underline{
+	text-decoration: none;
+}
