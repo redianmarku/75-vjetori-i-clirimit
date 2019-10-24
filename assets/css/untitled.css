@@ -66,3 +66,12 @@
 .upper{
 	text-transform: uppercase;
 }
+
+.img-albumi{
+	width: 428.5px;
+	height: 228.567px;
+	background-position: center center;
+	overflow: hidden;
+	margin-left: 0;
+	margin-right: 0;
+}
