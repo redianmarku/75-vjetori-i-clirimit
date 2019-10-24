@@ -62,3 +62,7 @@
 	font-size: 16px;
 	transition: 0.4s; 
 }
+
+.upper{
+	text-transform: uppercase;
+}
