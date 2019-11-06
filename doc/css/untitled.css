@@ -76,3 +76,9 @@
 	margin-right: 0;
 }
 #more {display: none;}
+
+.kur-card{
+	background-color: #ececec;
+	padding: 15px;
+	margin-top: 15px;
+}
